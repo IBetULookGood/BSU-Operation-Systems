@@ -3,5 +3,12 @@
 
 int main() {
 	Vector v(ZERO,ONE);
+
+
+
+
+
+
+
 	return 0;
 }
