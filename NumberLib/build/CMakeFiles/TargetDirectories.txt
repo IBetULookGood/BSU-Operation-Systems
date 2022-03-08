@@ -1,0 +1,3 @@
+/home/tim/CLionProjects/NumberLib/build/CMakeFiles/rebuild_cache.dir
+/home/tim/CLionProjects/NumberLib/build/CMakeFiles/edit_cache.dir
+/home/tim/CLionProjects/NumberLib/build/CMakeFiles/NumberLib.dir

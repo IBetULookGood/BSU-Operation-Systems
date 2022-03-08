@@ -1,0 +1,3 @@
+/home/tim/CLionProjects/VectorLib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tim/CLionProjects/VectorLib/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tim/CLionProjects/VectorLib/cmake-build-debug/CMakeFiles/VectorLib.dir
